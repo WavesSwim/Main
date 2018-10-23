@@ -1,6 +1,6 @@
 GitHub repository for Waves Swim School. See below for a list of website pages, and their associated filenames.
 
-- Home: [index](http://wavesswimschool.co.uk)
+- Home: [index](https://wavesswimschool.co.uk)
 - Mission Statement: [mission](https://wavesswimschool.co.uk/mission)
 - Term Dates: [term-dates](https://wavesswimschool.co.uk/term-dates)
 - Timetables: [timetables](https://wavesswimschool.co.uk/timetables)
